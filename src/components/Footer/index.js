@@ -1,12 +1,11 @@
 import styles from './Footer.module.css';
 
-    function Footer(){
-        return(
+function Footer(){
+    return (
         <footer className={styles.footer}>
-            desenvolvido por Ryllary Barroso &reg; 2024
+            <h2>Desenvolvido por Ryllary Barroso &reg; 2024</h2>
         </footer>
-        );
-    
-    }
+    );
+}
 
-    export default Footer;
+export default Footer;
