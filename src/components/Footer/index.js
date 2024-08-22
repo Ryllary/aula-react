@@ -1,9 +1,9 @@
-import styles from './Footer.module.css';
+import styles from './Footer.module.css'
 
 function Footer(){
-    return (
+    return(
         <footer className={styles.footer}>
-            <h2>Desenvolvido por Ryllary Barroso &reg; 2024</h2>
+            Developed by Ryllary Barroso &reg; 2024
         </footer>
     );
 }

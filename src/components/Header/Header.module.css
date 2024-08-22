@@ -7,10 +7,10 @@
     height: 55px;
     display: flex;
     padding-block: 0.5rem;
-    padding: 0.5rem;
     font-size: 1.5rem;
     align-items: center;
     justify-content: space-around;
+    font-family: Poppins, Bold;
 }
 
 .header span{
@@ -19,6 +19,9 @@
     font-weight: 500;
 }
 
+/*.header nav{
+    margin-right: 1rem;
+}*/
 
 .header a{
     text-decoration: none;
@@ -26,3 +29,4 @@
     padding-inline: 0.5rem;
     font-size: 1.125rem;
 }
+
