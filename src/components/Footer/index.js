@@ -1,9 +1,9 @@
-import styles from './Footer.module.css'
+import styles from "./Footer.module.css";
 
-function Footer(){
-    return(
+function Footer() {
+    return (
         <footer className={styles.footer}>
-            Developed by Ryllary Barroso &reg; 2024
+            <h2>LokiFlix &copy; Desenvolvido por Ryllary Barroso 2024</h2>
         </footer>
     );
 }

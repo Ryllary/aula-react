@@ -1,249 +1,171 @@
 [
-    {
-        "id": "MJp9i3TEn_Y",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/MJp9i3TEn_YM/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MJp9i3TEn_Y",
-        "category": "Videoclipes"
-    },
+  {
+    "id": "JEeBu3y0vJQ",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "PvU6dD59IyA",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "kgsKG5TlBW0",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "ee15tCw1kYo",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "QUc_M1b1uNE",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "YzBkkC2SXxM",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "pHJKEwJarSo",
+    "title": "",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pHJKEwJarSo",
+    "category": "Entrevistas"
+  },
+  {
+    "id": "zBVCW8xc19Q",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "pYG6MUbLnVY",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "pvFy8PhJ-sY",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "Cy7Y8Jmdw8w",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "AeHMawcMxVQ",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "1PZIVrYUIhI",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "70LgFtkVfzY",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "UerCpbS4KJk",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "j93GpAPaLx8",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "zddTZjpEOxA",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Curiosidades"
+  },
+  {
+    "id": "2JTPUXqWEKg",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Astronomia e Geografia"
+  },
+  {
+    "id": "_hvwmwCIbSA",
+    "title": "",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Astronomia e Geografia"
+  },
+  {
+    "id": "bSmk5bpvc4c",
+    "title": "Dia e Noite",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Astronomia e Geografia"
+  },
+  {
+    "id": "VbNKh9FaUWg",
+    "title": "Solstícios e Equinócios",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Astronomia e Geografia"
+  },
+  {
+    "id": "wodOww43nHA",
+    "title": "Estações do Ano",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Astronomia e Geografia"
+  },
+  {
+    "id": "1lZDLyMKwwE",
+    "title": "A circulação geral da atmosfera, o tempo e o clima",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Climatologia, Meteorologia, Vegetação"
+  },
+  {
+    "id": "V-v3wTK_KpI",
+    "title": "As intervenções humanas na dinâmica climáticas",
+    "url": "https://www.youtube.com/watch?v=JEeBu3y0vJQ",
+    "cover": "https://www.youtube.com/watch?v=JEeBu3y0vJQs/maxresdefault.jpg",
+    "category": "Climatologia"
+  }
 
-    {
-        "id": "IEr_yj-8MmM",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/0M1UCYRZAtM/maxresdefault.jpg",
-        "url": "https://youtu.be/IEr_yj-8MmM?si=vCG1f9czBfM-phgp",
-        "category": "Videoclipes"
-    },
-
-    {
-        "id": "R4VJyfCcOJc",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/R4VJyfCcOJc/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R4VJyfCcOJc",
-        "category": "Videoclipes"
-    },
-
-    {
-        "id": "cii6ruuycQA",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/cii6ruuycQA/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cii6ruuycQA",
-        "category": "Videoclipes"
-    },
-
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Videoclipes"
-    },
-
-    {
-        "id": "EVIJUH29pjU",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/EVIJUH29pjU/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EVIJUH29pjU",
-        "category": "Videoclipes"
-    },
-
-    {
-        "id": "BY_XwvKogC8",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/BY_XwvKogC8/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BY_XwvKogC8",
-        "category": "Videoclipes"
-    },
-
-    {
-        "id": "G1FLUuDKRYI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/G1FLUuDKRYI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G1FLUuDKRYI",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "WrN3Dx3EBVI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/WrN3Dx3EBVI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WrN3Dx3EBVI",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "asrGCMGSmY0",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/asrGCMGSmY0/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=asrGCMGSmY0",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "HHxRBljtoqU",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/HHxRBljtoqU/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HHxRBljtoqU",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "_GFkHA5EZdE",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/_GFkHA5EZdE/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_GFkHA5EZdE",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "XnbCSboujF4",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/XnbCSboujF4/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XnbCSboujF4",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "MGO4_8YRKro",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/MGO4_8YRKro/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MGO4_8YRKro",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "Bl5630CeYFs",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/Bl5630CeYFs/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bl5630CeYFs",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "SynVdC540nw",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/SynVdC540nw/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SynVdC540nw",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "544DTGHIBM0",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/544DTGHIBM0/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=544DTGHIBM0",
-        "category": "73 questões | Vogue"
-    },
-
-    {
-        "id": "YClcvscKf3w",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/YClcvscKf3w/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YClcvscKf3w",
-        "category": "Musicais"
-    },
-
-    {
-        "id": "j9YewJWcZyc",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/j9YewJWcZyc/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j9YewJWcZyc",
-        "category": "Musicais"
-    },
-
-    {
-        "id": "8uWtOPmpsW0",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/8uWtOPmpsW0/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8uWtOPmpsW0",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "izaFt-Hux-U",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/izaFt-Hux-U/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=izaFt-Hux-U",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "NPi6ZclFEjg",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/NPi6ZclFEjg/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NPi6ZclFEjg",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "KudedLV0tP0",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KudedLV0tP0/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KudedLV0tP0",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Filmes"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Entrevistas"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Entrevistas"
-    },
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Entrevistas"
-    },
-
-    {
-        "id": "KNtJGQkC-WI",
-        "title": "",
-        "cover": "https://img.youtube.com/vi/KNtJGQkC-WI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
-        "category": "Entrevistas"
-    }
 ]
