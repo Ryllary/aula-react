@@ -56,5 +56,3 @@ Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que f
 18. [Aula 18 Criar componente Formulário e página com rota](https://github.com/edsonmaia/app-movies/blob/main/aulas/aula18.md)
 19. [Aula 19 Receber dados do Formulário, processar e validar form](https://github.com/edsonmaia/app-movies/blob/main/aulas/aula19.md)
 20. [Aula 20 Criar componente Loader](https://github.com/edsonmaia/app-movies/blob/main/aulas/aula20.md)
-
-Salve Devs, até a próxima!
