@@ -1,5 +1,7 @@
 # Projeto foi desenvolvido utilizando Create React App
 
+https://lokiflix.vercel.app
+
 1. Após baixar ou clonar
 2. Estando na pasta do projeto app-movies
 3. No terminal rode o seguinte comando:
